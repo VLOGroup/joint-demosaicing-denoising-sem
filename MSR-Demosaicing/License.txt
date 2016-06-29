@@ -1,0 +1,29 @@
+Microsoft Research License Agreement
+(Non-Commercial Use Only)
+MSRC Demosaicing Dataset
+
+_________________________________________________________
+This Microsoft Research license agreement ("MSR-LA") is a legal agreement between you and Microsoft Corporation (“Microsoft” or “we”) for the database identified above, which may include associated materials, data files, associated media and "online" or electronic documentation (together, the "Corpus"). 
+
+By installing, copying, or otherwise using this Corpus, you agree to be bound by the terms of this MSR-LA. If you do not agree, do not install copy or use the Corpus. The Corpus is protected by copyright and other intellectual property laws and is licensed, not sold.    
+
+SCOPE OF RIGHTS:
+You may use this Corpus for any non-commercial purpose, subject to the restrictions in this License. Some purposes which can be non-commercial are teaching, academic research, public demonstrations and personal experimentation. 
+You may not distribute this Corpus or any derivative works in any form. 
+Microsoft may have patents, patent applications, trademarks, copyrights, or other intellectual property rights covering the Corpus, information or other materials contained with this Corpus.  Except as expressly set out below, the furnishing of this Corpus does not give you any license under these patents, trademarks, copyrights, or other intellectual property rights.
+You may use any information in intangible form that you remember after accessing the Corpus. However, this right does not grant you a license to any of Microsoft's copyrights or patents for anything you might create using such information.
+
+In return, we simply require that you agree: 
+1. That you will not remove any copyright or other notices from the Corpus.
+2. You will not attempt to modify the Corpus, or to reverse engineer or decompile them, except and only to the extent authorized by law. 
+3. That any feedback about the Corpus provided by you to us is voluntarily given, and Microsoft shall be free to use the feedback as it sees fit without obligation or restriction of any kind, even if the feedback is designated by you as confidential.  Any feedback that you may have with respect to the Corpus shall be provided to Microsoft via e-mail to: pkohli@microsoft.com.
+4. THAT THE CORPUS COMES "AS IS", WITH NO WARRANTIES. THIS MEANS NO EXPRESS, IMPLIED OR STATUTORY WARRANTY, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, ANY WARRANTY AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE CORPUS OR ANY WARRANTY OF TITLE OR NON-INFRINGEMENT. THERE IS NO WARRANTY THAT THIS CORPUS WILL FULFILL ANY OF YOUR PARTICULAR PURPOSES OR NEEDS. 
+5. THAT NEITHER MICROSOFT NOR ANY CONTRIBUTOR TO THE CORPUS WILL BE LIABLE FOR ANY DAMAGES RELATED TO THE CORPUS OR THIS LICENSE, INCLUDING DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES, TO THE MAXIMUM EXTENT THE LAW PERMITS, NO MATTER WHAT LEGAL THEORY IT IS BASED ON. 
+6. That we have no duty of reasonable care or lack of negligence, and we are not obligated to (and will not) provide technical support for the Corpus.
+7. That if you breach this MSR-LA or if you sue anyone over patents that you think may apply to the Corpus or anyone's use of the Corpus, your license to the Corpus ends automatically and you shall destroy all of your copies of the Corpus immediately.  
+8. That the Corpus is subject to U.S. export jurisdiction at the time it is licensed to you, and it may be subject to additional export or import laws in other places.  You agree to comply with all such laws and regulations that may apply to the Corpus after delivery of the Corpus to you.
+9. That if you are an agency of the U.S. Government, (i) Corpus provided pursuant to a solicitation issued on or after December 1, 1995, is provided with the commercial license rights set forth in this License, and (ii) Corpus provided pursuant to a solicitation issued prior to December 1, 1995, is provided with “Restricted Rights” as set forth in FAR, 48 C.F.R. 52.227-14 (June 1987) or DFAR, 48 C.F.R. 252.227-7013 (Oct 1988), as applicable.
+10. That your rights under this License end automatically if you breach it in any way.
+11. That all rights not expressly granted to you in this License are reserved.
+12. That this MSR-LA shall be construed and controlled by the laws of the State of Washington, USA, without regard to conflicts of law.  If any provision of this MSR-LA shall be deemed unenforceable or contrary to law, the rest of this MSR-LA shall remain in full effect and interpreted in an enforceable manner that most nearly captures the intent of the original language. 
+
