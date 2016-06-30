@@ -30,6 +30,7 @@ Some test images are provided, see the remark below.
 
 If you use this code, please cite the following publication:
 
+~~~
 @inproceedings{klatzer_iccp2016,
 author = {Teresa Klatzer and Kerstin Hammernik and Patrick Knöbelreiter and Thomas Pock},
 title = {{Joint Demosaicing and Denoising Based on Sequential Energy Minimization}},
@@ -37,6 +38,7 @@ booktitle = {2016 IEEE International Conference on Computational Photography (IC
 year = {2016},
 doi={10.1109/ICCPHOT.2016.7492871},
 }
+~~~
 
 For further questions, feel free to contact me via: klatzer@icg.tugraz.at
 
@@ -46,6 +48,7 @@ For further questions, feel free to contact me via: klatzer@icg.tugraz.at
 5 test images are provided from the Microsoft Demosaicing Dataset (folder MSR-Demosaicing).
 A separate license file is enclosed in this folder.
 
+~~~
 @article{ msrdemosaicing2015,
     title = "Joint Demosaicing and Denoising via Learned Nonparametric Random Fields",
     author = "Daniel Khashabi and Sebastian Nowozin and
@@ -57,3 +60,4 @@ A separate license file is enclosed in this folder.
     pages = "4968--4981",
     URL = "http://dx.doi.org/10.1109/TIP.2014.2359774",
 }
+~~~
